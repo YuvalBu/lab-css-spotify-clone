@@ -21,11 +21,6 @@ header {
 	align-items: center;
 }
 
-/* nav {
-	/* position: fixed; */
-/* float: right; */
-/* } */
-
 ul {
 	display: flex;
 	counter-reset: list;
